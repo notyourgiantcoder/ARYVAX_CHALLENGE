@@ -1,7 +1,6 @@
 """
-ArvyaX Reflective AI Pipeline  —  Parts 1–9
-Config (messages, ordering) loaded from config.json.
-Column types auto-detected from CSV.
+ArvyaX Reflective AI Pipeline
+
 """
 
 import csv, json, warnings
@@ -34,7 +33,7 @@ cfg         = json.loads(CONFIG_PATH.read_text())
 MESSAGES    = {tuple(k.split("|")): v for k, v in cfg["messages"].items()}
 WHEN_SUFFIX = cfg["when_suffix"]
 
-# ── Decision rules (behaviour logic — stays in code, not config) ───────────────
+# ── Decision rules (behaviour logic )───────────────
 WHAT_RULES = [
     {"state":"overwhelmed", "hi_stress":True,  "hi_intens":True,  "action":"box_breathing"},
     {"state":"overwhelmed", "lo_energy":True,                      "action":"rest"},
@@ -67,7 +66,7 @@ WHEN_RULES = [
     {                       "what":"sound_therapy",                 "when":"later_today"},
 ]
 
-# ── Column type detection from data (no hardcoding) ────────────────────────────
+# ── Column type detection from data ────────────────────────────
 def detect_col_types(rows):
     """Auto-detect numeric vs categorical by attempting float conversion."""
     num_cols, cat_cols = [], []
