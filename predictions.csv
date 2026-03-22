@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
+10001,focused,1,0.4979,0,light_planning,tomorrow_morning,Your clarity is an asset. Sketch your priorities while thinking is sharp. Plan this for tomorrow morning.
+10002,restless,4,0.2207,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10003,calm,4,0.2506,1,rest,tonight,You've found stillness. Honour it — rest is the move right now. Save this for tonight.
+10004,focused,4,0.4628,0,light_planning,now,Your clarity is an asset. Sketch your priorities while thinking is sharp. Start right now.
+10005,calm,1,0.2186,1,journaling,later_today,This calm is a good moment to reflect and capture what's working. Aim for this later today.
+10006,mixed,4,0.3766,1,movement,now,Physical movement can help untangle the mental mix. Start right now.
+10007,restless,4,0.3047,1,box_breathing,tomorrow_morning,There's a buzzing energy that needs settling. A short breath reset will help. Plan this for tomorrow morning.
+10008,overwhelmed,1,0.5017,0,rest,within_15_min,Your body and mind need recovery. Rest without guilt — it's productive. Try this in the next 15 minutes.
+10009,restless,1,0.4075,1,movement,tomorrow_morning,Channel that restless energy into movement before it spirals. Plan this for tomorrow morning.
+10010,overwhelmed,4,0.477,0,grounding,tomorrow_morning,Things feel heavy. A quick grounding exercise can bring you back to the present. Plan this for tomorrow morning.
+10011,overwhelmed,4,0.4837,0,rest,now,Your body and mind need recovery. Rest without guilt — it's productive. Start right now.
+10012,overwhelmed,4,0.4152,1,rest,now,Your body and mind need recovery. Rest without guilt — it's productive. Start right now.
+10013,restless,4,0.2609,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10014,focused,3,0.449,1,light_planning,within_15_min,Your clarity is an asset. Sketch your priorities while thinking is sharp. Try this in the next 15 minutes.
+10015,calm,1,0.3509,1,light_planning,later_today,A calm mind is a planning mind. Map your next steps gently. Aim for this later today.
+10016,neutral,4,0.4624,0,movement,tomorrow_morning,A little movement can nudge you from neutral toward energy. Plan this for tomorrow morning.
+10017,mixed,3,0.495,0,sound_therapy,later_today,Ambient sound can help you find a neutral baseline when things feel blended. Aim for this later today.
+10018,mixed,1,0.52,0,grounding,tomorrow_morning,Your signals are mixed. Start with grounding to find your centre. Plan this for tomorrow morning.
+10019,focused,4,0.5017,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10020,calm,1,0.2816,1,rest,tonight,You've found stillness. Honour it — rest is the move right now. Save this for tonight.
+10021,overwhelmed,4,0.6619,0,box_breathing,now,You're carrying a lot. Let's slow your nervous system down with box breathing first. Start right now.
+10022,calm,1,0.5244,0,light_planning,later_today,A calm mind is a planning mind. Map your next steps gently. Aim for this later today.
+10023,neutral,1,0.4946,0,journaling,tomorrow_morning,Neutral can mean unexpressed. Journaling may surface what's sitting below. Plan this for tomorrow morning.
+10024,neutral,1,0.4845,0,journaling,tomorrow_morning,Neutral can mean unexpressed. Journaling may surface what's sitting below. Plan this for tomorrow morning.
+10025,restless,4,0.3734,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10026,overwhelmed,1,0.5142,0,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10027,mixed,5,0.4899,0,sound_therapy,tomorrow_morning,Ambient sound can help you find a neutral baseline when things feel blended. Plan this for tomorrow morning.
+10028,mixed,4,0.4838,0,sound_therapy,now,Ambient sound can help you find a neutral baseline when things feel blended. Start right now.
+10029,overwhelmed,3,0.6166,0,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10030,calm,1,0.3562,1,rest,tonight,You've found stillness. Honour it — rest is the move right now. Save this for tonight.
+10031,focused,1,0.4477,1,light_planning,within_15_min,Your clarity is an asset. Sketch your priorities while thinking is sharp. Try this in the next 15 minutes.
+10032,restless,2,0.2208,1,movement,tomorrow_morning,Channel that restless energy into movement before it spirals. Plan this for tomorrow morning.
+10033,overwhelmed,4,0.502,0,box_breathing,now,You're carrying a lot. Let's slow your nervous system down with box breathing first. Start right now.
+10034,neutral,4,0.4272,1,journaling,tomorrow_morning,Neutral can mean unexpressed. Journaling may surface what's sitting below. Plan this for tomorrow morning.
+10035,focused,4,0.4815,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10036,restless,4,0.5094,0,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10037,overwhelmed,1,0.3756,1,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10038,focused,1,0.4545,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10039,mixed,1,0.6184,0,grounding,tomorrow_morning,Your signals are mixed. Start with grounding to find your centre. Plan this for tomorrow morning.
+10040,mixed,1,0.381,1,sound_therapy,tomorrow_morning,Ambient sound can help you find a neutral baseline when things feel blended. Plan this for tomorrow morning.
+10041,overwhelmed,5,0.4817,0,grounding,now,Things feel heavy. A quick grounding exercise can bring you back to the present. Start right now.
+10042,neutral,1,0.2194,1,movement,within_15_min,A little movement can nudge you from neutral toward energy. Try this in the next 15 minutes.
+10043,mixed,1,0.4654,1,movement,tomorrow_morning,Physical movement can help untangle the mental mix. Plan this for tomorrow morning.
+10044,calm,1,0.3277,1,journaling,tomorrow_morning,This calm is a good moment to reflect and capture what's working. Plan this for tomorrow morning.
+10045,restless,4,0.5102,0,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10046,focused,1,0.4784,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10047,focused,5,0.4719,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10048,calm,4,0.4219,1,journaling,now,This calm is a good moment to reflect and capture what's working. Start right now.
+10049,restless,3,0.4877,0,journaling,tomorrow_morning,Writing it out can help you find the thread under the restlessness. Plan this for tomorrow morning.
+10050,restless,4,0.4572,0,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10051,calm,2,0.4775,0,journaling,later_today,This calm is a good moment to reflect and capture what's working. Aim for this later today.
+10052,restless,4,0.4102,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10053,calm,4,0.5446,0,light_planning,now,A calm mind is a planning mind. Map your next steps gently. Start right now.
+10054,overwhelmed,4,0.5381,0,grounding,now,Things feel heavy. A quick grounding exercise can bring you back to the present. Start right now.
+10055,mixed,4,0.4386,1,movement,tomorrow_morning,Physical movement can help untangle the mental mix. Plan this for tomorrow morning.
+10056,focused,4,0.5129,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10057,overwhelmed,4,0.5511,0,rest,now,Your body and mind need recovery. Rest without guilt — it's productive. Start right now.
+10058,overwhelmed,3,0.5223,0,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10059,mixed,4,0.389,1,grounding,tomorrow_morning,Your signals are mixed. Start with grounding to find your centre. Plan this for tomorrow morning.
+10060,calm,1,0.2729,1,rest,tonight,You've found stillness. Honour it — rest is the move right now. Save this for tonight.
+10061,calm,3,0.3679,1,journaling,tomorrow_morning,This calm is a good moment to reflect and capture what's working. Plan this for tomorrow morning.
+10062,calm,1,0.4524,0,journaling,tomorrow_morning,This calm is a good moment to reflect and capture what's working. Plan this for tomorrow morning.
+10063,overwhelmed,4,0.2791,1,rest,now,Your body and mind need recovery. Rest without guilt — it's productive. Start right now.
+10064,neutral,4,0.4766,0,movement,now,A little movement can nudge you from neutral toward energy. Start right now.
+10065,neutral,4,0.4666,0,light_planning,now,Steady state is a great launchpad. A little structure sets up your day. Start right now.
+10066,restless,1,0.4327,1,journaling,tomorrow_morning,Writing it out can help you find the thread under the restlessness. Plan this for tomorrow morning.
+10067,restless,5,0.4471,1,box_breathing,tomorrow_morning,There's a buzzing energy that needs settling. A short breath reset will help. Plan this for tomorrow morning.
+10068,overwhelmed,1,0.4979,0,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10069,neutral,4,0.4985,0,movement,tomorrow_morning,A little movement can nudge you from neutral toward energy. Plan this for tomorrow morning.
+10070,restless,1,0.4039,1,journaling,tomorrow_morning,Writing it out can help you find the thread under the restlessness. Plan this for tomorrow morning.
+10071,mixed,4,0.4509,0,grounding,now,Your signals are mixed. Start with grounding to find your centre. Start right now.
+10072,neutral,4,0.3849,1,journaling,now,Neutral can mean unexpressed. Journaling may surface what's sitting below. Start right now.
+10073,restless,1,0.2553,1,journaling,tomorrow_morning,Writing it out can help you find the thread under the restlessness. Plan this for tomorrow morning.
+10074,mixed,3,0.538,0,grounding,within_15_min,Your signals are mixed. Start with grounding to find your centre. Try this in the next 15 minutes.
+10075,restless,4,0.393,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10076,mixed,3,0.5106,0,grounding,within_15_min,Your signals are mixed. Start with grounding to find your centre. Try this in the next 15 minutes.
+10077,neutral,4,0.5639,0,movement,tomorrow_morning,A little movement can nudge you from neutral toward energy. Plan this for tomorrow morning.
+10078,restless,4,0.403,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10079,restless,3,0.4319,1,journaling,tomorrow_morning,Writing it out can help you find the thread under the restlessness. Plan this for tomorrow morning.
+10080,mixed,1,0.2845,1,movement,tomorrow_morning,Physical movement can help untangle the mental mix. Plan this for tomorrow morning.
+10081,restless,4,0.547,0,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10082,overwhelmed,1,0.4858,1,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10083,neutral,1,0.4527,0,movement,within_15_min,A little movement can nudge you from neutral toward energy. Try this in the next 15 minutes.
+10084,overwhelmed,3,0.5106,0,rest,within_15_min,Your body and mind need recovery. Rest without guilt — it's productive. Try this in the next 15 minutes.
+10085,restless,4,0.4242,1,box_breathing,tomorrow_morning,There's a buzzing energy that needs settling. A short breath reset will help. Plan this for tomorrow morning.
+10086,neutral,4,0.4299,1,journaling,tomorrow_morning,Neutral can mean unexpressed. Journaling may surface what's sitting below. Plan this for tomorrow morning.
+10087,mixed,4,0.5353,0,sound_therapy,tomorrow_morning,Ambient sound can help you find a neutral baseline when things feel blended. Plan this for tomorrow morning.
+10088,neutral,1,0.5215,0,light_planning,within_15_min,Steady state is a great launchpad. A little structure sets up your day. Try this in the next 15 minutes.
+10089,calm,1,0.3817,1,rest,tonight,You've found stillness. Honour it — rest is the move right now. Save this for tonight.
+10090,mixed,2,0.6607,0,movement,tomorrow_morning,Physical movement can help untangle the mental mix. Plan this for tomorrow morning.
+10091,neutral,4,0.4867,0,journaling,tomorrow_morning,Neutral can mean unexpressed. Journaling may surface what's sitting below. Plan this for tomorrow morning.
+10092,overwhelmed,3,0.5147,0,grounding,within_15_min,Things feel heavy. A quick grounding exercise can bring you back to the present. Try this in the next 15 minutes.
+10093,mixed,4,0.3902,1,sound_therapy,tomorrow_morning,Ambient sound can help you find a neutral baseline when things feel blended. Plan this for tomorrow morning.
+10094,restless,4,0.3936,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10095,overwhelmed,1,0.5105,0,grounding,tomorrow_morning,Things feel heavy. A quick grounding exercise can bring you back to the present. Plan this for tomorrow morning.
+10096,calm,4,0.3759,1,journaling,now,This calm is a good moment to reflect and capture what's working. Start right now.
+10097,mixed,3,0.3815,1,movement,tomorrow_morning,Physical movement can help untangle the mental mix. Plan this for tomorrow morning.
+10098,overwhelmed,4,0.5189,0,box_breathing,now,You're carrying a lot. Let's slow your nervous system down with box breathing first. Start right now.
+10099,mixed,4,0.2893,1,grounding,now,Your signals are mixed. Start with grounding to find your centre. Start right now.
+10100,mixed,4,0.4528,0,grounding,now,Your signals are mixed. Start with grounding to find your centre. Start right now.
+10101,restless,4,0.3344,1,box_breathing,tomorrow_morning,There's a buzzing energy that needs settling. A short breath reset will help. Plan this for tomorrow morning.
+10102,overwhelmed,4,0.4973,0,grounding,tomorrow_morning,Things feel heavy. A quick grounding exercise can bring you back to the present. Plan this for tomorrow morning.
+10103,calm,4,0.4557,0,journaling,now,This calm is a good moment to reflect and capture what's working. Start right now.
+10104,mixed,4,0.4762,0,grounding,tomorrow_morning,Your signals are mixed. Start with grounding to find your centre. Plan this for tomorrow morning.
+10105,restless,3,0.4143,1,journaling,later_today,Writing it out can help you find the thread under the restlessness. Aim for this later today.
+10106,neutral,4,0.413,1,movement,now,A little movement can nudge you from neutral toward energy. Start right now.
+10107,calm,4,0.3717,1,journaling,now,This calm is a good moment to reflect and capture what's working. Start right now.
+10108,mixed,4,0.5091,0,sound_therapy,now,Ambient sound can help you find a neutral baseline when things feel blended. Start right now.
+10109,focused,3,0.3275,1,light_planning,within_15_min,Your clarity is an asset. Sketch your priorities while thinking is sharp. Try this in the next 15 minutes.
+10110,calm,1,0.3483,1,rest,tonight,You've found stillness. Honour it — rest is the move right now. Save this for tonight.
+10111,mixed,4,0.4695,0,sound_therapy,now,Ambient sound can help you find a neutral baseline when things feel blended. Start right now.
+10112,mixed,4,0.5279,0,sound_therapy,now,Ambient sound can help you find a neutral baseline when things feel blended. Start right now.
+10113,calm,1,0.5929,0,light_planning,later_today,A calm mind is a planning mind. Map your next steps gently. Aim for this later today.
+10114,restless,1,0.2186,1,journaling,later_today,Writing it out can help you find the thread under the restlessness. Aim for this later today.
+10115,calm,3,0.5471,0,journaling,tomorrow_morning,This calm is a good moment to reflect and capture what's working. Plan this for tomorrow morning.
+10116,overwhelmed,1,0.4772,0,grounding,tomorrow_morning,Things feel heavy. A quick grounding exercise can bring you back to the present. Plan this for tomorrow morning.
+10117,restless,4,0.2223,1,box_breathing,now,There's a buzzing energy that needs settling. A short breath reset will help. Start right now.
+10118,focused,1,0.4795,0,deep_work,now,You're in a good headspace. Use this window — do your most important task now. Start right now.
+10119,mixed,4,0.4275,1,grounding,tomorrow_morning,Your signals are mixed. Start with grounding to find your centre. Plan this for tomorrow morning.
+10120,restless,1,0.2765,1,movement,within_15_min,Channel that restless energy into movement before it spirals. Try this in the next 15 minutes.

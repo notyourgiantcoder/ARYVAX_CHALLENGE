@@ -1,0 +1,121 @@
+id,journal_text,ambience_type,duration_min,sleep_hours,energy_level,stress_level,time_of_day,previous_day_mood,face_emotion_hint,reflection_quality
+10001,woke up feeling more organized mentally. i was more tired than i thought.,cafe,4,8.5,3,1,night,mixed,happy_face,vague
+10002,started off distracted most of the time. this was better than yesterday.,mountain,4,8.5,1,2,afternoon,mixed,happy_face,clear
+10003,kinda calm ...,cafe,15,8.5,2,5,evening,calm,happy_face,vague
+10004,after the session i felt able to think straight. my breathing slowed for a moment.,ocean,7,7,2,3,morning,overwhelmed,none,clear
+10005,lowkey felt pretty grounded. i had to restart once. ...,ocean,20,8.5,1,5,afternoon,calm,tired_face,vague
+10006,"today i was a little better and a little off, but sleep probably affected it.",rain,4,3.5,4,2,morning,neutral,tired_face,clear
+10007,lowkey felt unable to stay with one thought. mountain visuals made it easier to pause.,rain,25,8,2,3,night,calm,neutral_face,clear
+10008,ended up like everything piled up. then my mind wandered again. then it faded again.,forest,10,8.5,2,4,afternoon,mixed,,clear
+10009,"for a while i was itchy in my head, but ocean audio was nice.",rain,4,8.5,4,4,evening,overwhelmed,tense_face,conflicted
+10010,for a while i was more tired than i expected. the rain helped a little. after that i could continue.,forest,12,3.5,4,2,night,neutral,,clear
+10011,"started off like everything piled up, but forest sounds worked for a bit. ...",ocean,30,5,2,3,morning,neutral,calm_face,clear
+10012,ok session,rain,20,7,2,3,afternoon,neutral,calm_face,conflicted
+10013,actually helped,ocean,25,7,4,3,afternoon,mixed,none,clear
+10014,woke up feeling actually able to focus. then my mind wandered again. still not fully there though. ...,mountain,4,5,2,4,afternoon,restless,happy_face,vague
+10015,started off surprisingly okay. i couldn't tell if it was helping at first.,cafe,20,4,4,1,morning,mixed,tired_face,clear
+10016,"lowkey felt just normal, but it took time to click.",cafe,35,6,4,2,evening,,,vague
+10017,by the end i was split between calm and tension. cafe ambience weirdly helped. after that i could continue.,mountain,35,8,1,2,morning,focused,neutral_face,conflicted
+10018,"not gonna lie i felt calmer on the surface but still busy underneath, but this was better than yesterday. ...",ocean,30,5,3,5,evening,focused,calm_face,clear
+10019,"started off ready to start work, but teh rain helped a little.",ocean,30,7,4,1,afternoon,focused,calm_face,vague
+10020,still off,forest,7,8.5,1,2,evening,overwhelmed,calm_face,conflicted
+10021,somehow i felt mentally flooded. i couldn't tell if it was helping at first. still not fully there though.,ocean,7,7,1,5,evening,neutral,calm_face,clear
+10022,woke up feeling less tense. i stayed with it anyway.,rain,7,7,5,1,morning,calm,happy_face,vague
+10023,today i was mostly the same. the rain helped a little. that part surprised me.,rain,25,6,1,4,night,,none,conflicted
+10024,not gonna lie i felt okay overall. this was better than yesterday.,forest,12,8,2,4,evening,mixed,happy_face,vague
+10025,ok session,ocean,20,7,1,4,morning,calm,tired_face,conflicted
+10026,"by the end i was unable to come down from the day, but i kept thinking about emails.",rain,10,7,3,3,morning,focused,happy_face,clear
+10027,for a while i was in between. i stayed with it anyway.,cafe,7,3.5,2,1,evening,calm,neutral_face,conflicted
+10028,somehow i felt in between. i had to restart once.,cafe,20,3.5,2,1,afternoon,calm,calm_face,clear
+10029,honestly i felt mentally flooded. i couldn't tell if it was helping at first.,rain,4,5,4,5,afternoon,neutral,happy_face,vague
+10030,"honestly i felt more settled, but i couldn't tell if it was helping at first.",rain,10,8.5,1,2,night,focused,neutral_face,conflicted
+10031,today i was able to prioritize. sleep probably affected it. that part surprised me. ...,ocean,12,8.5,1,2,morning,calm,,vague
+10032,"lowkey felt kind of jumpy, but then my mind wandered again.",cafe,4,7,5,4,evening,calm,happy_face,vague
+10033,"ended up unable to come down from the day, but i stayed with it anyway.",forest,10,8.5,2,4,morning,restless,,vague
+10034,"woke up feeling kind of blank, but ocean audio was nice.",rain,12,7,1,4,night,focused,,clear
+10035,woke up feeling able to prioritize. mountain visuals made it easier to pause.,mountain,4,8.5,4,1,morning,restless,neutral_face,clear
+10036,honestly i felt all over the place. i kept thinking about emails.,ocean,18,6,3,5,morning,mixed,tense_face,clear
+10037,not much change,rain,10,8.5,3,5,morning,neutral,tense_face,vague
+10038,"after the session i felt ready to start work, but i was more tired than i thought.",forest,7,8,4,2,night,neutral,happy_face,clear
+10039,for a while i was not bad but not clear either. i had to restart once.,mountain,5,7,1,5,evening,overwhelmed,,vague
+10040,by the end i was half relaxed half distracted. i couldn't tell if it was helping at first.,cafe,18,4,2,1,evening,overwhelmed,calm_face,vague
+10041,woke up feeling still carrying too much. this was better than yesterday.,ocean,20,3.5,5,2,morning,overwhelmed,,vague
+10042,by the end i was pretty grounded. i stayed with it anyway. then it faded again.,ocean,12,7,1,1,afternoon,neutral,calm_face,conflicted
+10043,bit restless,ocean,10,5,5,1,night,neutral,,vague
+10044,fine i guess,rain,15,5,4,1,evening,,,vague
+10045,not gonna lie i felt still mentally busy. it took time to click. that part surprised me.,forest,4,8.5,1,1,morning,restless,tired_face,conflicted
+10046,"kind of felt able to think straight, but the rain helped a little.",forest,5,6,4,1,night,mixed,neutral_face,clear
+10047,not gonna lie i felt more organized mentally. this was better than yesterday.,ocean,25,5,5,2,morning,calm,,clear
+10048,after the session i felt more at ease. i was more tired than i thought. that part surprised me.,forest,15,5,5,3,afternoon,overwhelmed,,vague
+10049,started off still mentally busy. cafe ambience weirdly helped. ...,ocean,18,3.5,3,2,night,restless,happy_face,clear
+10050,"ended up restless even after, but i kept thinking about emails.",rain,20,3.5,5,5,evening,,neutral_face,vague
+10051,"after the session i felt less wound up, but then my mind wandered again.",cafe,4,7,4,1,afternoon,mixed,,conflicted
+10052,"lowkey felt unable to settle, but my breathing slowed for a moment.",ocean,7,3.5,4,2,morning,neutral,neutral_face,clear
+10053,not gonna lie i felt less tense. this was better than yesterday.,forest,12,8.5,1,1,morning,overwhelmed,neutral_face,conflicted
+10054,not gonna lie i felt mentally flooded. i couldn't tell if it was helping at first.,cafe,30,8.5,5,2,afternoon,restless,happy_face,conflicted
+10055,after the session i felt split between calm and tension. this was better than yesterday.,mountain,30,5,5,3,night,,tense_face,conflicted
+10056,honestly i felt clearer than earlier. forest sounds worked for a bit.,ocean,15,5,5,3,night,neutral,none,vague
+10057,not gonna lie i felt heavy in the chest. it took time to click.,mountain,15,3.5,1,2,afternoon,calm,none,vague
+10058,started off like everything piled up. cafe ambience weirdly helped. ...,ocean,5,4,4,1,afternoon,overwhelmed,tired_face,conflicted
+10059,woke up feeling a little better and a little off. i couldn't tell if it was helping at first.,rain,35,7,5,4,night,neutral,tense_face,conflicted
+10060,mind racing,ocean,35,8.5,2,2,night,calm,tired_face,clear
+10061,lowkey felt pretty even. my breathing slowed for a moment.,mountain,12,8.5,5,3,night,restless,,vague
+10062,"by the end i was more at ease, but i stayed with it anyway.",forest,30,4,4,4,night,restless,tense_face,clear
+10063,by the end i was distracted most of the time. then my mind wandered again.,forest,4,8,2,1,afternoon,overwhelmed,tense_face,clear
+10064,started off mostly the same. sleep probably affected it.,forest,4,3.5,2,1,morning,,tired_face,conflicted
+10065,"kind of felt steady but nothing major, but it took time to click.",cafe,18,7,5,2,morning,neutral,tense_face,clear
+10066,lowkey felt unable to settle. this was better than yesterday.,rain,10,4,2,1,evening,mixed,tense_face,vague
+10067,not gonna lie i felt unable to settle. i stayed with it anyway.,cafe,15,4,2,2,night,overwhelmed,none,vague
+10068,for a while i was mentally flooded. then my mind wandered again.,mountain,18,6,5,5,morning,overwhelmed,tired_face,conflicted
+10069,after the session i felt steady but nothing major. then my mind wandered again. then it faded again. ...,ocean,5,6,5,2,evening,mixed,none,conflicted
+10070,lowkey felt all over teh place. ocean audio was nice. ...,mountain,5,8.5,3,4,evening,focused,happy_face,conflicted
+10071,ended up somewhat settled but still uneasy. i had to restart once.,rain,15,4,1,4,morning,calm,tense_face,vague
+10072,"lowkey felt okay overall, but forest sounds worked for a bit.",cafe,30,3.5,4,4,afternoon,,calm_face,conflicted
+10073,by the end i was locked in for a bit. i kept thinking about emails.,forest,12,3.5,1,5,night,,tense_face,clear
+10074,started off calmer on the surface but still busy underneath. ocean audio was nice.,forest,10,8,5,5,afternoon,neutral,tired_face,conflicted
+10075,started off kind of jumpy. i had to restart once.,ocean,18,7,3,4,morning,focused,,vague
+10076,lowkey felt calmer on teh surface but still busy underneath. tehn my mind wandered again. not sure why but it shifted.,rain,10,8.5,1,4,morning,restless,calm_face,conflicted
+10077,by the end i was steady but nothing major. i had to restart once.,cafe,18,5,2,2,evening,restless,happy_face,vague
+10078,"somehow i felt unable to stay with one thought, but my breathing slowed for a moment.",mountain,12,4,3,1,afternoon,restless,calm_face,conflicted
+10079,for a while i was distracted most of teh time. i kept thinking about emails.,forest,25,8,1,2,evening,calm,,clear
+10080,more clear today,ocean,12,5,5,2,night,neutral,neutral_face,vague
+10081,kind of felt restless even after. i kept thinking about emails.,rain,7,4,2,5,night,overwhelmed,calm_face,conflicted
+10082,mind racing,rain,25,5,5,2,afternoon,neutral,,clear
+10083,started off okay overall. ocean audio was nice.,rain,35,7,4,3,afternoon,restless,tired_face,conflicted
+10084,after the session i felt drained and behind. then my mind wandered again.,cafe,15,8,1,4,afternoon,overwhelmed,none,conflicted
+10085,fine i guess,ocean,25,5,2,2,evening,restless,calm_face,clear
+10086,"kind of felt mostly the same, but i kept thinking about emails. ...",cafe,35,3.5,3,4,evening,overwhelmed,tired_face,vague
+10087,kind of felt calmer on the surface but still busy underneath. ocean audio was nice. after that i could continue. ...,forest,7,6,3,3,night,restless,none,conflicted
+10088,not gonna lie i felt okay overall. i stayed with it anyway.,ocean,7,8.5,5,2,morning,mixed,none,vague
+10089,woke up feeling okay overall. my breathing slowed for a moment. ...,rain,12,8,1,3,evening,calm,happy_face,conflicted
+10090,kind of felt better but not fully okay. it took time to click.,rain,15,8.5,5,1,evening,overwhelmed,neutral_face,conflicted
+10091,after the session i felt steady but nothing major. it took time to click.,cafe,5,4,4,5,night,focused,none,vague
+10092,started off like everything piled up. i had to restart once.,ocean,18,7,3,1,afternoon,restless,happy_face,clear
+10093,after the session i felt a little better and a little off. this was better than yesterday. that part surprised me.,cafe,30,6,1,1,evening,focused,calm_face,vague
+10094,kinda calm,rain,18,5,1,5,morning,focused,tired_face,clear
+10095,after teh session i felt more tired than i expected. i couldn't tell if it was helping at first.,ocean,7,4,3,2,night,neutral,calm_face,clear
+10096,still off ...,ocean,7,8,2,3,afternoon,neutral,none,vague
+10097,started off in between. i kept thinking about emails.,mountain,35,7,4,2,evening,focused,happy_face,vague
+10098,started off heavy in teh chest. i stayed with it anyway. still not fully tehre though.,cafe,5,4,1,5,evening,restless,calm_face,vague
+10099,"started off half relaxed half distracted, but my breathing slowed for a moment. ...",mountain,18,8,2,4,morning,restless,happy_face,clear
+10100,started off somewhat settled but still uneasy. i stayed with it anyway.,mountain,25,8,4,5,morning,focused,calm_face,clear
+10101,started off more settled. i stayed with it anyway. that part surprised me.,rain,20,3.5,1,2,evening,neutral,tense_face,clear
+10102,lowkey felt unable to come down from the day. the rain helped a little. not sure why but it shifted.,ocean,5,6,3,3,evening,focused,tired_face,conflicted
+10103,kind of felt lighter than before. mountain visuals made it easier to pause.,ocean,5,6,1,5,afternoon,focused,,clear
+10104,not gonna lie i felt somewhat settled but still uneasy. forest sounds worked for a bit.,ocean,4,5,1,5,evening,mixed,calm_face,conflicted
+10105,ok session,cafe,15,4,1,1,morning,restless,none,clear
+10106,somehow i felt not very different. then my mind wandered again.,cafe,5,8.5,5,3,afternoon,neutral,,clear
+10107,hard to focus,forest,25,3.5,1,2,afternoon,overwhelmed,happy_face,conflicted
+10108,after the session i felt in between. sleep probably affected it.,cafe,7,6,1,1,morning,calm,tired_face,vague
+10109,i noticed i was fine i guess. cafe ambience weirdly helped.,ocean,10,5,4,5,afternoon,,none,conflicted
+10110,ok session,mountain,15,8.5,2,5,night,calm,calm_face,vague
+10111,today i was split between calm and tension. it took time to click.,rain,5,3.5,1,1,morning,,none,conflicted
+10112,lowkey felt calmer on the surface but still busy underneath. forest sounds worked for a bit. then it faded again.,forest,5,3.5,2,2,afternoon,focused,neutral_face,vague
+10113,i noticed i was less tense. i was more tired than i thought.,mountain,18,3.5,1,4,morning,calm,neutral_face,vague
+10114,by teh end i was pretty grounded. cafe ambience weirdly helped. ...,mountain,4,7,3,4,afternoon,calm,none,vague
+10115,woke up feeling lighter than before. then my mind wandered again.,mountain,30,7,5,5,evening,restless,none,conflicted
+10116,ended up unable to come down from the day. then my mind wandered again.,rain,7,5,4,2,night,focused,none,conflicted
+10117,"somehow i felt pretty grounded, but it took time to click. ...",forest,5,7,1,3,afternoon,overwhelmed,tense_face,clear
+10118,"started off ready to start work, but i stayed with it anyway.",rain,12,8,4,2,afternoon,calm,tired_face,vague
+10119,somehow i felt somewhat settled but still uneasy. i kept thinking about emails.,forest,25,8.5,4,4,night,neutral,tired_face,conflicted
+10120,by the end i was distracted most of the time. i couldn't tell if it was helping at first.,mountain,35,6,5,4,afternoon,neutral,happy_face,conflicted
